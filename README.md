@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rflimat
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python.
-- 💞️ I’m looking to collaborate on development web proyects with programming languages such as JavaScript and Python.
+- 💞️ I’m looking to collaborate on development web proyects.
 - 📫 How to reach me : Mail: raulflimat@gmail.com
 
 <!---
