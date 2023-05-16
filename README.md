@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rflimat
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js, Express.js, PHP, Python.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js, Express.js, PHP, Laravel, Python.
 - 💞️ I’m looking to collaborate on development web proyects.
 - 📫 How to reach me : Mail: raulflimat@gmail.com
 
