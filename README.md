@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rflimat
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js, Express.js, PHP, Laravel, Python.
+- 👀 I’m a Backend Developer Jr that come from web development.
+- 🌱 I’m Java, Spring Boot, PHP, Laravel, React.js, Next.js, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on development web proyects.
-- 📫 How to reach me : Mail: raulflimat@gmail.com
+- 📫 How to reach me : Mail: raulflimat@gmail.com Or Web: https://rflimat.vercel.app
 
 <!---
 rflimat/rflimat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
