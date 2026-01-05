@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rflimat
 - 👀 I’m a Backend Developer Jr that come from web development.
-- 🌱 I’m Java, Spring Boot, PHP, Laravel, React.js, Next.js, HTML, CSS, JavaScript.
+- 🌱 My skills are Java, Spring Boot, PHP, Laravel, React.js, Next.js, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on development web proyects.
 - 📫 How to reach me : Mail: raulflimat@gmail.com Or Web: https://rflimat.vercel.app
 
